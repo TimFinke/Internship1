@@ -71,7 +71,7 @@ R Core Team. (2019). R: A language and environment for statistical computing. Vi
 
 Sarkar, D. (2008). Lattice: Multivariate data visualization with r. New York: Springer. Retrieved from http://lmdvr.r-forge.r-project.org
 
-Storey, J. D., Bass, A. J., Dabney, A., & Robinson, D. (2019). Qvalue: Q-value estimation for false discovery rate control. Retrieved from http://github.com/jdstorey/qvalue Strachan, T., & Read, A. (2019). Human molecular genetics. (5th ed.). Garland Science. Terry M. Therneau, & Patricia M. Grambsch. (2000). Modeling survival data: Extending the Cox model. New York: Springer. The 1000 Genomes Project Consortium. (2015). A global reference for human genetic variation. Nature, 526 (7571), 68–74. https://doi.org/10.1038/nature15393 The International HapMap3 Consortium. (2010). Integrating common and rare genetic variation in diverse human populations. Nature, 467(7311), 52–58. https://doi.org/10.1038/nature09298
+Storey, J. D., Bass, A. J., Dabney, A., & Robinson, D. (2019). Qvalue: Q-value estimation for false discovery rate control. Retrieved from http://github.com/jdstorey/qvalue
 
 Wei, T., & Simko, V. (2017). R package "corrplot": Visualization of a correlation matrix. Retrieved from https://github.com/taiyun/corrplot
 
