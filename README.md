@@ -12,43 +12,82 @@ A wide array of R packages has been used for plotting ﬁgures, calculating the 
 
 ## References:
 
-For genetic correlation: Bulik-Sullivan, B., et al. An Atlas of Genetic Correlations across Human Diseases and Traits. Nature Genetics, 2015. Preprint available on bioRxiv doi: http://dx.doi.org/10.1101/014498
+### Genetic correlation
 
-For partitioned heritability: Finucane, HK, et al. Partitioning heritability by functional annotation using genome-wide association summary statistics. Nature Genetics, 2015. Preprint available on bioRxiv doi: http://dx.doi.org/10.1101/014241
+Bulik-Sullivan, B., et al. An Atlas of Genetic Correlations across Human Diseases and Traits. Nature Genetics, 2015. Preprint available on bioRxiv doi: http://dx.doi.org/10.1101/014498
 
-For LDSC network plots: Kanai, M., et al. Genetic analysis of quantitative traits in the Japanese population links cell types to complex human diseases. Nat. Genet. (2018) doi:10.1038/s41588-018-0047-6
+### Partitioned heritability
 
-R-packages:
+Finucane, HK, et al. Partitioning heritability by functional annotation using genome-wide association summary statistics. Nature Genetics, 2015. Preprint available on bioRxiv doi: http://dx.doi.org/10.1101/014241
+
+### LDSC network plots
+
+Kanai, M., et al. Genetic analysis of quantitative traits in the Japanese population links cell types to complex human diseases. Nat. Genet. (2018) doi:10.1038/s41588-018-0047-6
+
+### R-packages
 Arora, S., Morgan, M., Carlson, M., & Pagès, H. (2019). GenomeInfoDb: Utilities for manipulating chromosome names, including modifying them to follow a particular naming style.
+
 Aust, F., & Barth, M. (2020). papaja: Create APA manuscripts with R Markdown. Retrieved from https://github.com/crsh/papaja
+
 Bengtsson, H. (2019). MatrixStats: Functions that apply to rows and columns of matrices (and to vectors). Retrieved from https://CRAN.R-project.org/package=matrixStats
+
 Csardi, G., & Nepusz, T. (2006). The igraph software package for complex network research. InterJournal, Complex Systems, 1695. Retrieved from http://igraph.org
+
 Dowle, M., & Srinivasan, A. (2019). Data.table: Extension of ‘data.frame‘. Retrieved from https://CRAN.R-project.org/package=data.table
+
 Epskamp, S., Cramer, A. O. J., Waldorp, L. J., Schmittmann, V. D., & Borsboom, D. (2012). qgraph: Network visualizations of relationships in psychometric data. Journal of Statistical Software, 48(4), 1–18. Retrieved from http://www.jstatsoft.org/v48/i04/
+
 Harrell Jr, F. E., Charles Dupont, & others. (2019). Hmisc: Harrell miscellaneous. Retrieved from https://CRAN.R-project.org/package=Hmisc
+
 Henry, L., & Wickham, H. (2019). Purrr: Functional programming tools. Retrieved from https://CRAN.R-project.org/package=purrr
-Huber, W., Carey, V. J., Gentleman, R., Anders, S., Carlson, M., Carvalho, B. S., ... Morgan, M. (2015). Orchestrating high-throughput genomic analysis with Bioconductor. Nature Methods, 12(2), 115–121. Retrieved from http://www.nature.com/nmeth/journal/v12/n2/full/nmeth.3252.html
+
+Huber, W., Carey, V. J., Gentleman, R., Anders, S., Carlson, M., Carvalho, B. S., ... Morgan, M. (2015). Orchestrating high-throughput genomic analysis with Bioconductor. Nature 
+Methods, 12(2), 115–121. Retrieved from http://www.nature.com/nmeth/journal/v12/n2/full/nmeth.3252.html
+
 Huber, W., Carey, J., V., Gentleman, R., ... M. (2015). Orchestrating high-throughput genomic analysis with Bioconductor. Nature Methods, 12(2), 115–121. Retrieved from http://www.nature.com/nmeth/journal/v12/n2/full/nmeth.3252.html
+
 Lawrence, M., Huber, W., Pagès, H., Aboyoun, P., Carlson, M., Gentleman, R., ... Carey, V. (2013a). Software for computing and annotating genomic ranges. PLoS Computational Biology, 9(8). https://doi.org/10.1371/journal.pcbi.1003118
+
 Lawrence, M., Huber, W., Pagès, H., Aboyoun, P., Carlson, M., Gentleman, R., ... Carey, V. (2013b). Software for computing and annotating genomic ranges. PLoS Computational Biology, 9(8). https://doi.org/10.1371/journal.pcbi.1003118
+
 Love, M. I., Huber, W., & Anders, S. (2014). Moderated estimation of fold change and dispersion for rna-seq data with deseq2. Genome Biology, 15(12), 550. https://doi.org/10.1186/s13059-014-0550-8
+
 Morgan, M., Obenchain, V., Hester, J., & Pagès, H. (2019a). SummarizedExperiment: SummarizedExperiment container.
+
 Morgan, M., Obenchain, V., Lang, M., Thompson, R., & Turaga, N. (2019b). BiocParallel: Bioconductor facilities for parallel evaluation. Retrieved from https://github.com/Bioconductor/BiocParallel
+
 Müller, K., & Wickham, H. (2019). Tibble: Simple data frames. Retrieved from https://CRAN.R-project.org/package=tibble
+
 Neuwirth, E. (2014). RColorBrewer: ColorBrewer palettes. Retrieved from https://CRAN.R-project.org/package=RColorBrewer
+
 Pagès, H., Lawrence, M., & Aboyoun, P. (2019). S4Vectors: Foundation of vector-like and list-like containers in bioconductor.
+
 Pagès, H., Peter Hickey, & Lun, A. (2020). DelayedArray: A uniﬁed framework for working transparently with on-disk and in-memory array-like datasets.
+
 R Core Team. (2019). R: A language and environment for statistical computing. Vienna, Austria: R Foundation for Statistical Computing. Retrieved from https://www.R-project.org/
+
 Sarkar, D. (2008). Lattice: Multivariate data visualization with r. New York: Springer. Retrieved from http://lmdvr.r-forge.r-project.org
+
 Storey, J. D., Bass, A. J., Dabney, A., & Robinson, D. (2019). Qvalue: Q-value estimation for false discovery rate control. Retrieved from http://github.com/jdstorey/qvalue Strachan, T., & Read, A. (2019). Human molecular genetics. (5th ed.). Garland Science. Terry M. Therneau, & Patricia M. Grambsch. (2000). Modeling survival data: Extending the Cox model. New York: Springer. The 1000 Genomes Project Consortium. (2015). A global reference for human genetic variation. Nature, 526 (7571), 68–74. https://doi.org/10.1038/nature15393 The International HapMap3 Consortium. (2010). Integrating common and rare genetic variation in diverse human populations. Nature, 467(7311), 52–58. https://doi.org/10.1038/nature09298
+
 Wei, T., & Simko, V. (2017). R package "corrplot": Visualization of a correlation matrix. Retrieved from https://github.com/taiyun/corrplot
+
 Wickham, H. (2016). Ggplot2: Elegant graphics for data analysis. Springer-Verlag New York. Retrieved from https://ggplot2.tidyverse.org
+
 Wickham, H. (2019a). Forcats: Tools for working with categorical variables (factors). Retrieved from https://CRAN.R-project.org/package=forcats
+
 Wickham, H. (2019b). Stringr: Simple, consistent wrappers for common string operations. Retrieved from https://CRAN.R-project.org/package=stringr
+
 Wickham, H., Averick, M., Bryan, J., Chang, W., McGowan, L. D., François, R., ... Yutani, H. (2019). Welcome to the tidyverse. Journal of Open Source Software, 4(43), 1686. https://doi.org/10.21105/joss.01686
+
 Wickham, H., François, R., Henry, L., & Müller, K. (2020). Dplyr: A grammar of data manipulation. Retrieved from https://CRAN.R-project.org/package=dplyr
+
 Wickham, H., & Henry, L. (2020). Tidyr: Tidy messy data. Retrieved from https://CRAN.R-project.org/package=tidyr
+
 Wickham, H., Hester, J., & Francois, R. (2018). Readr: Read rectangular text data. Retrieved from https://CRAN.R-project.org/package=readr
+
 Wilke, C. O. (2019). Cowplot: Streamlined plot theme and plot annotations for ’ggplot2’. Retrieved from https://CRAN.R-project.org/package=cowplot
+
 Zeileis, A., & Croissant, Y. (2010). Extended model formulas in R: Multiple parts and multiple responses. Journal of Statistical Software, 34(1), 1–13. https://doi.org/10.18637/jss.v034.i01
+
 Zhu, H. (2019). KableExtra: Construct complex table with ’kable’ and pipe syntax. Retrieved from https://CRAN.R-project.org/package=kableExtra
