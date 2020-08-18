@@ -147,14 +147,8 @@ trait_list_age <- tibble(
             "BIP", "HGHT", "INS", "MDD",
             "NEUdep", "NEUwor", "PTSD", "SCZ",
             "CAN"), times = 2),
-  color = rep(col2, times = 2) #sample(col, 26), NU zijn kleuren zelfde ongeacht hersengebied denk ik, 
-                                #verschil lijkt te zitten in kleur vakjes stoornis, DUBBELCHECKEN!!!
+  color = rep(col2, times = 2) 
 )
-########################## names  ##################################
-# ct_names
-# categories replacement of CNS: pyramidal neurons from the hip CA region
-# NOT: Alanine-Serine-Cysteine-2 Transporter
-
 ################### names for CT and AGE ################
 ct_names <- tibble(
   category = c("CNS"),
