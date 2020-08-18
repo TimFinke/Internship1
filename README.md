@@ -25,7 +25,7 @@ Finucane, HK, et al. Partitioning heritability by functional annotation using ge
 
 ### LDSC network plots
 
-Kanai, M., et al. Genetic analysis of quantitative traits in the Japanese population links cell types to complex human diseases. Nat. Genet. (2018) doi: http://dx/doi.org/10.1038/s41588-018-0047-6
+Kanai, M., et al. Genetic analysis of quantitative traits in the Japanese population links cell types to complex human diseases. Nat. Genet. (2018) doi: http://dx.doi.org/10.1038/s41588-018-0047-6
 
 ### R packages
 Arora, S., Morgan, M., Carlson, M., & Pagès, H. (2019). GenomeInfoDb: Utilities for manipulating chromosome names, including modifying them to follow a particular naming style.
