@@ -17,15 +17,15 @@ A wide array of R packages has been used for plotting ﬁgures (e.g. Script Func
 
 ### Genetic correlation
 
-Bulik-Sullivan, B., et al. An Atlas of Genetic Correlations across Human Diseases and Traits. Nature Genetics, 2015. Preprint available on bioRxiv doi: http://dx.doi.org/10.1101/014498
+Bulik-Sullivan, B., et al. An Atlas of Genetic Correlations across Human Diseases and Traits. Nature Genetics, 2015. Preprint available on bioRxiv doi: https://dx.doi.org/10.1101/014498
 
 ### Partitioned heritability
 
-Finucane, HK, et al. Partitioning heritability by functional annotation using genome-wide association summary statistics. Nature Genetics, 2015. Preprint available on bioRxiv doi: http://dx.doi.org/10.1101/014241
+Finucane, HK, et al. Partitioning heritability by functional annotation using genome-wide association summary statistics. Nature Genetics, 2015. Preprint available on bioRxiv doi: https://dx.doi.org/10.1101/014241
 
 ### LDSC network plots
 
-Kanai, M., et al. Genetic analysis of quantitative traits in the Japanese population links cell types to complex human diseases. Nat. Genet. (2018) doi: http://dx.doi.org/10.1038/s41588-018-0047-6
+Kanai, M., et al. Genetic analysis of quantitative traits in the Japanese population links cell types to complex human diseases. Nat. Genet. (2018) doi: https://dx.doi.org/10.1038/s41588-018-0047-6
 
 ### R packages
 Arora, S., Morgan, M., Carlson, M., & Pagès, H. (2019). GenomeInfoDb: Utilities for manipulating chromosome names, including modifying them to follow a particular naming style.
