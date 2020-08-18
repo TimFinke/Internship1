@@ -12,5 +12,7 @@ LDSC network plots were adapted from R code of Kanai et al. (2018), which can be
 References:
 
 For genetic correlation: Bulik-Sullivan, B., et al. An Atlas of Genetic Correlations across Human Diseases and Traits. Nature Genetics, 2015. Preprint available on bioRxiv doi: http://dx.doi.org/10.1101/014498
+
 For partitioned heritability: Finucane, HK, et al. Partitioning heritability by functional annotation using genome-wide association summary statistics. Nature Genetics, 2015. Preprint available on bioRxiv doi: http://dx.doi.org/10.1101/014241
+
 For LDSC network plots: Kanai, M., et al. Genetic analysis of quantitative traits in the Japanese population links cell types to complex human diseases. Nat. Genet. (2018) doi:10.1038/s41588-018-0047-6
