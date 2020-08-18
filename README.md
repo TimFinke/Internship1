@@ -1,5 +1,5 @@
 # Internship1
-Scripts used for internship I
+## Scripts used for internship I
 
 Unix shell scripts were used on the Lisa Compute Cluster of SURFsara using modules "2019" and "Anaconda3".  In most cases Python3 was used with dependencies bitarray (0.8.3), nose (1.3.7), pybedtools (0.8.0), scipy (1.2.1), pandas (0.24.2), and numpy (1.18.1). However, the LDSC software had some compatibility issues for Python3, hence incidental switches were made to Python2 with diﬀerent version for pandas (0.18.1) and numpy (1.15.4).
 
