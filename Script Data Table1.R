@@ -89,10 +89,6 @@ MDD2 <- MDD2 %>% # 11 SNPs
   LD_function("CHR", "min_rank_pval", "BP", "SNP", "BP_int_lower", "BP_int_higher")
 Sys.time()-start # Time difference of XXX secs
 
-head(MDD2)
-
-
-
 # neuroticism depressed subtype
 NEU_dep <- get_sig_SNP(file.path(path_data_neu, "sumstats_depressed_affect_ctg_format.txt.gz"), "P")
 start <- Sys.time()
